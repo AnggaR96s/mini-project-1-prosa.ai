@@ -1,24 +1,24 @@
-asgiref @ file:///home/ticho/.cache/pypoetry/artifacts/3f/98/4d/6a033cf821463ecb706293158c40bcde94048c2f69eee1ba0354d1b42f/asgiref-3.4.1-py3-none-any.whl
-cffi @ file:///home/ticho/.cache/pypoetry/artifacts/62/c3/29/c16154cce4786b02879598f3745b0a55c96f76bec9c5c8175be8d5cd71/cffi-1.15.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-cryptography @ file:///home/ticho/.cache/pypoetry/artifacts/01/aa/01/77e9d9a3654eeff80e78faf37fae35a61f7571f89137df96a48fe3159c/cryptography-2.8-cp34-abi3-manylinux2010_x86_64.whl
-Django @ file:///home/ticho/.cache/pypoetry/artifacts/90/b5/d2/27ce83111ecd3a0d3dfa5b5b6637045eb29a2517df4b360fd73660db5d/Django-3.2.8-py3-none-any.whl
-django-extensions @ file:///home/ticho/.cache/pypoetry/artifacts/a5/ae/41/b699e3c3b28936257640c7eb795be0d77427c028d5ac7d6164164565b5/django_extensions-3.1.5-py3-none-any.whl
-django-filter @ file:///home/ticho/.cache/pypoetry/artifacts/5a/68/8a/77b40dc782662c89a85de68752ca22242c38218dc94ea9115eaa597532/django_filter-21.1-py3-none-any.whl
-django-markdown-deux @ file:///home/ticho/.cache/pypoetry/artifacts/3a/86/a6/16fe6e1e5ad0aeff91b90545c76f653ccccf30a9fdfae4b1f7ece6fbaa/django-markdown-deux-1.0.5.zip
-django-rest-knox @ file:///home/ticho/.cache/pypoetry/artifacts/d2/74/82/f957dfd15aeb748dc1a9936934b74c6f9f7abccef93a08613d9597b0c0/django_rest_knox-4.1.0-py3-none-any.whl
-djangorestframework @ file:///home/ticho/.cache/pypoetry/artifacts/e2/18/85/ebfe20249d46d94e519853cb4ac80eb0cdeffdb02e8f870abdccc0bf73/djangorestframework-3.12.4-py3-none-any.whl
-drf-extensions @ file:///home/ticho/.cache/pypoetry/artifacts/44/8c/6c/bf892dee79d3724edeafbd9a86cd4d429d7005be9285b251d2031935ca/drf_extensions-0.7.1-py2.py3-none-any.whl
-drf-proxy-pagination @ file:///home/ticho/.cache/pypoetry/artifacts/60/64/27/1e2d5e27ba2968340cd7a2fe1565e653a10c70af1b4bd8a020c5cce60f/drf_proxy_pagination-0.2.0-py2.py3-none-any.whl
+asgiref
+cffi
+cryptography
+Django
+django-extensions
+django-filter
+django-markdown-deux
+django-rest-knox
+djangorestframework
+drf-extensions
+drf-proxy-pagination
 gunicorn==20.1.0
-importlib-metadata @ file:///home/ticho/.cache/pypoetry/artifacts/b4/b4/f4/dd3ca07fce84121a35bbb77dd46b4807c73811aedba7d62d4dc66831eb/importlib_metadata-4.11.2-py3-none-any.whl
-Markdown @ file:///home/ticho/.cache/pypoetry/artifacts/50/34/0c/89a9ef9d0d40b883e6bb72dd502a1c818253a7a15b23f3f47c07cca2d9/Markdown-3.3.6-py3-none-any.whl
-markdown2 @ file:///home/ticho/.cache/pypoetry/artifacts/e6/34/9a/2d9814334c327282a8ed222b715658d6d4ab891107392ad0b9c937a477/markdown2-2.4.2-py2.py3-none-any.whl
-numpy @ file:///home/ticho/.cache/pypoetry/artifacts/bf/20/9f/14d589dfb1e410af6e72052479f54c3e8a8d91ed9f58b1a1538af61cb0/numpy-1.22.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-opencv-python @ file:///home/ticho/.cache/pypoetry/artifacts/63/ae/c4/136451e24590cbb379bc5dab9dc9dbe5720e16e19e130a524a4546bccd/opencv_python-4.5.5.64-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-Pillow @ file:///home/ticho/.cache/pypoetry/artifacts/b9/d0/3b/2108874afb323d6ad3d0b9ccb5b7bdceca035ee98f3a9afa21acd7fec4/Pillow-9.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-pycparser @ file:///home/ticho/.cache/pypoetry/artifacts/f1/03/25/40eb46f7bede64f78ba073e2141b8216e611cbcde72e3117c326560101/pycparser-2.20-py2.py3-none-any.whl
-pytz @ file:///home/ticho/.cache/pypoetry/artifacts/07/c1/43/6f22a533e7bc5e277f10b4c6033e936ff7bbeb6464e5f27dbfb6c641d7/pytz-2021.3-py2.py3-none-any.whl
-six @ file:///home/ticho/.cache/pypoetry/artifacts/48/e6/04/8118155ae3ec3a16dd2a213bbf7a7d8a62c596b2e90f73a22c896269f1/six-1.16.0-py2.py3-none-any.whl
-sqlparse @ file:///home/ticho/.cache/pypoetry/artifacts/bd/30/d0/940567a036c6ea57abe7098acbd123f8c8985ccc27713365ae80d28f89/sqlparse-0.4.2-py3-none-any.whl
-typing-extensions @ file:///home/ticho/.cache/pypoetry/artifacts/63/00/66/294e7d75d34398c27c7ed9b154822f99422b0f11548b11c569c188eb2b/typing_extensions-3.10.0.2-py3-none-any.whl
-zipp @ file:///home/ticho/.cache/pypoetry/artifacts/54/a2/32/50907f67584b845d6877c7e224c118ff1db66fc6aed6c6ef86b22ed57f/zipp-3.7.0-py3-none-any.whl
+importlib-metadata
+Markdown
+markdown2
+numpy
+opencv-python
+Pullow
+pycparser
+pytz
+six
+sqlparse
+typing-extensions
+zipp
