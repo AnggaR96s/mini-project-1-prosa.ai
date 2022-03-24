@@ -15,7 +15,7 @@ Markdown
 markdown2
 numpy
 opencv-python
-Pullow
+Pillow
 pycparser
 pytz
 six
