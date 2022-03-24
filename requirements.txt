@@ -5,6 +5,7 @@ Django
 django-extensions
 django-filter
 django-markdown-deux
+django-rest-auth
 django-rest-knox
 djangorestframework
 drf-extensions
